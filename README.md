@@ -50,9 +50,9 @@ A pesquisa integra conceitos de Psicologia Cognitiva, Economia Comportamental, C
 > Adicione aqui um print da tela inicial do NotebookLM.
 
 ```
-imagens/notebook-home.png
+<img width="1418" height="900" alt="image" src="https://github.com/user-attachments/assets/077986d1-9c85-4ac7-852a-ce9ab3c11896" />
+
 ```
-![Uploading image.png…]()
 
 ---
 
