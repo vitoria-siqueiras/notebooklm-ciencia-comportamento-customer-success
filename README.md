@@ -52,6 +52,7 @@ A pesquisa integra conceitos de Psicologia Cognitiva, Economia Comportamental, C
 ```
 imagens/notebook-home.png
 ```
+![Uploading image.png…]()
 
 ---
 
