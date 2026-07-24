@@ -30,10 +30,10 @@ O objetivo foi construir um caderno temático baseado em evidências científica
 ## 📚 Estrutura do repositório
 
 | Arquivo | Conteúdo |
-|---------|-----------|
+|----------|----------|
 | objetivos.md | Objetivos do estudo |
 | prompts.md | Engenharia de Prompts |
-| glossario.md | Conceitos aprendidos |
+| glossário.md | Glossário dos principais conceitos |
 | miniguia.md | Resumo final |
 | aprendizados.md | Lições obtidas durante a pesquisa |
 
