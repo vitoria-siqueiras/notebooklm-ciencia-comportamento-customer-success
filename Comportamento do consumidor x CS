@@ -1,65 +1,66 @@
 # 🧠 Ciência do Comportamento aplicada ao Customer Success
 
-> Projeto desenvolvido utilizando o Google NotebookLM para investigar como fatores psicológicos, cognitivos e comportamentais influenciam a adoção, retenção, expansão e renovação de clientes em Customer Success.
+> Projeto desenvolvido durante o desafio da DIO utilizando o Google NotebookLM como ferramenta de aprendizagem ativa.
 
 ---
 
-# 📌 Contexto
+# 📖 Sobre o projeto
 
-Este projeto nasceu da seguinte pergunta:
+Este projeto tem como objetivo investigar como conhecimentos da Ciência do Comportamento podem ser aplicados ao Customer Success para melhorar estratégias de adoção, retenção, expansão e renovação de clientes.
 
-> Como o comportamento do consumidor influencia a jornada do cliente após a aquisição de um produto, software ou serviço?
-
-Para responder essa questão foi criado um notebook especializado no Google NotebookLM contendo artigos científicos, livros, vídeos acadêmicos, TED Talks e materiais especializados em Customer Success.
-
-Ao final da pesquisa foram produzidos um e-book executivo, infográficos e um podcast sintetizando os principais aprendizados.
+A pesquisa integra conceitos de Psicologia Cognitiva, Economia Comportamental, Customer Experience (CX), Service Design, tomada de decisão e Customer Success, utilizando o Google NotebookLM como ambiente de pesquisa e organização do conhecimento.
 
 ---
 
 # 🎯 Objetivos
 
-- compreender a tomada de decisão do consumidor;
-- estudar vieses cognitivos;
-- relacionar Psicologia Cognitiva e Customer Success;
-- construir uma biblioteca científica reutilizável.
+- Investigar fatores psicológicos que influenciam o comportamento do cliente.
+- Relacionar Ciência do Comportamento e Customer Success.
+- Construir um repositório científico para consultas futuras.
+- Desenvolver um mini guia prático baseado em evidências.
 
 ---
 
-# 📊 Resultados
+# 🛠 Ferramentas utilizadas
 
-✔ Notebook com 47 fontes
-
-✔ E-book executivo
-
-✔ Podcast gerado pelo NotebookLM
-
-✔ Infográficos
-
-✔ Engenharia de Prompts
+- Google NotebookLM
+- GitHub
+- Artigos científicos
+- PDFs
+- TED Talks
+- Vídeos acadêmicos
 
 ---
 
-# 📂 Documentação
+# 📂 Estrutura do Projeto
 
 | Documento | Descrição |
 |------------|-----------|
-| 📄 [Contexto](docs/01-contexto-e-objetivos.md) | Objetivos da pesquisa |
-| 📚 [Fontes](docs/02-curadoria-de-fontes.md) | Curadoria científica |
-| 💬 [Prompts](docs/03-engenharia-de-prompts.md) | Engenharia de prompts |
-| 🧠 [Insights](docs/04-principais-insights.md) | Descobertas |
-| 📖 [Glossário](docs/05-glossario.md) | Conceitos |
-| 💡 [Aprendizados](docs/06-aprendizados.md) | Reflexões |
+| 📄 [01-objetivos](docs/01-objetivos.md) | Objetivos da pesquisa |
+| 📚 [02-curadoria-de-fontes](docs/02-curadoria-de-fontes.md) | Fontes utilizadas |
+| 💬 [03-engenharia-de-prompts](docs/03-engenharia-de-prompts.md) | Prompts utilizados e aprendizados |
+| 📘 [04-miniguia-de-estudos](docs/04-miniguia-de-estudos.md) | Resumo consolidado |
+| 📖 [05-glossario](docs/05-glossario.md) | Principais conceitos |
+| 💡 [06-aprendizados](docs/06-aprendizados.md) | Lições obtidas durante o projeto |
 
 ---
 
-# 📷 NotebookLM
- 
-(Imagem) 
+---
+
+# 🚀 Principais resultados
+
+Ao final deste estudo foi possível:
+
+- compreender como fatores psicológicos influenciam decisões do cliente;
+- relacionar conceitos científicos às práticas de Customer Success;
+- desenvolver prompts reutilizáveis para pesquisas futuras;
+- estruturar um repositório de conhecimento para estudos contínuos.
 
 ---
 
-# 📘 Materiais produzidos
+# 📌 Próximos passos
 
-- Anatomia da Decisão (PDF)
-- Podcast
-- Infográficos
+- Expandir a base científica.
+- Criar novos estudos sobre adoção e churn.
+- Desenvolver frameworks próprios.
+- Publicar novos notebooks sobre Customer Success.
